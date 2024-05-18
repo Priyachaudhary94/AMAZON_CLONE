@@ -28,7 +28,7 @@
     border-radius:4%;
 }
 .logo {
-    background-image: url(Images/amazon_logo.png);
+    background-image: url(images/amazon_logo.png);
     background-size:cover;
     height: 50px;
     width: 100%;
@@ -189,7 +189,7 @@ main {
     display: flex;
     justify-content: center;
     background-size: cover;
-    background-image: url(Images/hero_image.jpg);
+    background-image: url(images/hero_image.jpg);
 }
 .hero-text {
     width: 96%;
